@@ -1,0 +1,17 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image:url("https://images.creativemarket.com/0.1.0/ps/440056/1360/895/m1/fpnw/wm1/lmlrmbuugedevkpjshcjtnrneywdvs6gqjb4om7vufaya7pkzolsmb8ublv4sybk-.jpg?1428666939&s=b01abfd94310568b040a93838edbb008");
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+	border-width: 10px;
+	background-color: aliceblue;
+	border-style: ridge;
+}
